@@ -138,6 +138,7 @@ $result = $conn->query($query);
                 <a href="impact.php">Impact</a>
                 <a href="user_profile.php">My Profile</a>
                 <a href="resources.php">Resource Hub</a>
+                <a href="http://35.223.26.146:8501/">AI waste detector</a>
             </nav>
         </header>
 
